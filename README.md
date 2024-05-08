@@ -15,7 +15,7 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (7)"\> \<word>" | Yes | Yes | Blockquote |
 | (8)"\`\<code>\`" | Yes | Yes | Code |
 | (9)"\[title](link)" | Yes | Yes | Link/Hyperlink |
-| (10)"\![alt text]\(image.jpg)" | Yes | Yes | Image |
+| (10)"\![alt text]\(image.jpg)" | No | Yes | Image |
 
 (1)"*`\<italic word>*"
 
