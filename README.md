@@ -4,4 +4,4 @@ This may just be showing the amount of stuff for markdown, and Discord like "# H
 
 \*\<italic word>\*, \*\*\<bold word>\*\*, \*\*\*\<bold+italic word>\*\*\* work in both Discord and Markdown
 
-***r***
+\# \<word>, \## <word>, \### <word> work in Markdown and Discord
