@@ -15,4 +15,4 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (8)"\`\<code>\`" | Yes | Yes | Code |
 | "\--- \<word>" | Yes | Yes | Horizontal Line |
 | "\[title](https://www.example.com)" | Yes | Yes | Link/Hyperlink |
-| "\![alt text](image.jpg)" | Yes | Yes | Image |
+| "\![alt text]\(image.jpg)" | Yes | Yes | Image |
