@@ -13,11 +13,12 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 (7)"\> <word>" work in both Discord and Markdown
 
 ## Code
-(8)"\`<code>\`" work in both Discord and Markdown
+(8)"\`\<code>\`" work in both Discord and Markdown
 
 ## Horizontal Rule
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| Text | Works in Discord | Works in Markdown |
+| ----------- | ----------- | ----------- |
+| (1)"\*\<italic word>\*" | a | b |
+| (2)"\*\*\<bold word>\*\*" | a | b |
+| (3)"\*\*\*\<bold+italic word>\*\*\* | a | b |
