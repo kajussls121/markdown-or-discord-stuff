@@ -16,8 +16,6 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (9)"\--- \<word>" | Yes | Yes | Horizontal Line |
 | (10)"\[title](link)" | Yes | Yes | Link/Hyperlink |
 | (11)"\![alt text]\(image.jpg)" | Yes | Yes | Image |
-| (12)"H\~2\~O" | Yes | Yes | Subscript |
-| (13)"X^2^" | Yes | Yes | Superscript |
 
 (1)"*`\<italic word>*"
 
@@ -38,7 +36,3 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 (10)"[title](hello.txt)"
 
 (11)"![alt text](image.jpg)"
-
-(12)"H~2~O"
-
-X^2^(13)
