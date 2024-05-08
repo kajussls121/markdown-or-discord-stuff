@@ -35,4 +35,5 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 
 (10)"[title](hello.txt)"
 
-(11)"![alt text](image.jpg)"
+(11)
+![alt text](image.jpg)
