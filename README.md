@@ -20,15 +20,18 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (13)"X^2^" | Yes | Yes | Superscript |
 
 (1)"*`\<italic word>*"
+
 (2)"**\<bold word>**"
+
 (3)"***\<bold+italic word>***
-# \<word>(4)
-## \<word>(5)
-### \<word>(6)
-(7)"> \<word>"
+
+# (4)\<word>
+## (5)\<word>
+### (6)\<word>
+> \<word>(7)
 (8)"`<code>`"
-(9)"--- \<word>"
-(10)"[title](link)"
+--- \<word>"(9)
+(10)"[title](hello.txt)"
 (11)"![alt text](image.jpg)"
 (12)"H~2~O"
-(13)"X^2^"
+X^2^(13)
