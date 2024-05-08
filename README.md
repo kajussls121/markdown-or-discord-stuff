@@ -28,10 +28,17 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 # (4)\<word>
 ## (5)\<word>
 ### (6)\<word>
+
 > \<word>(7)
+
 (8)"`<code>`"
+
 --- \<word>"(9)
+
 (10)"[title](hello.txt)"
+
 (11)"![alt text](image.jpg)"
+
 (12)"H~2~O"
+
 X^2^(13)
