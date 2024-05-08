@@ -17,7 +17,7 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (9)"\[title](link)" | Yes | Yes | Link/Hyperlink |
 | (10)"\![alt text]\(image.jpg)" | No | Yes | Image |
 
-# These are for Markdown, not Discord.
+# These below are for Markdown, not Discord.
 
 (1)"*`\<italic word>*"
 
