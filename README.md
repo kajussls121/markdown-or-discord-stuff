@@ -13,9 +13,8 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (6)"\### \<word>" | Yes | Yes | Heading 3 |
 | (7)"\> \<word>" | Yes | Yes | Blockquote |
 | (8)"\`\<code>\`" | Yes | Yes | Code |
-| (9)"\--- \<word>" | Yes | Yes | Horizontal Line |
-| (10)"\[title](link)" | Yes | Yes | Link/Hyperlink |
-| (11)"\![alt text]\(image.jpg)" | Yes | Yes | Image |
+| (9)"\[title](link)" | Yes | Yes | Link/Hyperlink |
+| (10)"\![alt text]\(image.jpg)" | Yes | Yes | Image |
 
 (1)"*`\<italic word>*"
 
@@ -31,10 +30,8 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 
 (8)"`<code>`"
 
---- \<word>"(9)
+(9)"[title](hello.txt)"
 
-(10)"[title](hello.txt)"
-
-(11) (below)
+(10) (below)
 
 ![alt text](image.jpg)
