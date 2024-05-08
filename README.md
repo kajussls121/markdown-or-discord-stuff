@@ -11,8 +11,24 @@ Numbers before each word will be shown in a preview below like "*(1)*"
 | (4)"\# \<word>" | Yes | Yes | Heading 1 |
 | (5)"\## \<word>" | Yes | Yes | Heading 2 |
 | (6)"\### \<word>" | Yes | Yes | Heading 3 |
-| (7)"\> <word>" | Yes | Yes | Blockquote |
+| (7)"\> \<word>" | Yes | Yes | Blockquote |
 | (8)"\`\<code>\`" | Yes | Yes | Code |
-| "\--- \<word>" | Yes | Yes | Horizontal Line |
-| "\[title](https://www.example.com)" | Yes | Yes | Link/Hyperlink |
-| "\![alt text]\(image.jpg)" | Yes | Yes | Image |
+| (9)"\--- \<word>" | Yes | Yes | Horizontal Line |
+| (10)"\[title](link)" | Yes | Yes | Link/Hyperlink |
+| (11)"\![alt text]\(image.jpg)" | Yes | Yes | Image |
+| (12)"H\~2\~O" | Yes | Yes | Subscript |
+| (13)"X^2^" | Yes | Yes | Superscript |
+
+(1)"*`\<italic word>*"
+(2)"**\<bold word>**"
+(3)"***\<bold+italic word>***
+# \<word>(4)
+## \<word>(5)
+### \<word>(6)
+(7)"> \<word>"
+(8)"`<code>`"
+(9)"--- \<word>"
+(10)"[title](link)"
+(11)"![alt text](image.jpg)"
+(12)"H~2~O"
+(13)"X^2^"
